@@ -1,4 +1,5 @@
 # Frist-repo-
 This is  my first new repo
 <br>
-Author - Prashant 
+Author - Prashant sharma
+
